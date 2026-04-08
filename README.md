@@ -26,27 +26,14 @@ RESPUESTAS
 </div>
 
 
-2.<div class="container mt-4 text-white text-center">
-  <div class="row mb-2">
-    <div class="col-6 bg-primary p-5">
-      Fila 1 - Columna 1 (bg-primary)
-    </div>
-    <div class="col-6 bg-success p-5">
-      Fila 1 - Columna 2 (bg-success)
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-6 bg-warning text-dark p-5">
-      Fila 2 - Columna 1 (bg-warning)
-    </div>
-    <div class="col-6 bg-danger p-5">
-      Fila 2 - Columna 2 (bg-danger)
-    </div>
-  </div>
+2.<div class="row">
+  <div class="col-6 bg-danger text-white p-4">Rojo (Danger)</div>
+  <div class="col-6 bg-primary text-white p-4">Azul (Primary)</div>
 </div>
-
-
+<div class="row">
+  <div class="col-6 bg-success text-white p-4">Verde (Success)</div>
+  <div class="col-6 bg-warning text-dark p-4">Amarillo (Warning)</div>
+</div>
 3.<div class="container mt-4 text-white text-center">
   <div class="row mb-2">
     <div class="col-6 bg-primary p-3">F1 - Col 1</div>
