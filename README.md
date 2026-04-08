@@ -28,12 +28,21 @@ RESPUESTAS
 
 2.<div class="container mt-4 text-white text-center">
   <div class="row mb-2">
-    <div class="col-6 bg-info p-4">Fila 1 - Col 1</div>
-    <div class="col-6 bg-secondary p-4">Fila 1 - Col 2</div>
+    <div class="col-6 bg-primary p-5">
+      Fila 1 - Columna 1 (bg-primary)
+    </div>
+    <div class="col-6 bg-success p-5">
+      Fila 1 - Columna 2 (bg-success)
+    </div>
   </div>
+
   <div class="row">
-    <div class="col-6 bg-dark p-4">Fila 2 - Col 1</div>
-    <div class="col-6 bg-danger p-4">Fila 2 - Col 2</div>
+    <div class="col-6 bg-warning text-dark p-5">
+      Fila 2 - Columna 1 (bg-warning)
+    </div>
+    <div class="col-6 bg-danger p-5">
+      Fila 2 - Columna 2 (bg-danger)
+    </div>
   </div>
 </div>
 
